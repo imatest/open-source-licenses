@@ -1,9 +1,10 @@
 # Imatest Third-Party Open Source Licenses
-
+This is a list of the open-source licenses that are included in Imatest products.
 
 | Project           | License                |
 |-------------------|------------------------|
 |[adb](https://developer.android.com/studio/command-line/adb) |[Apache 2.0](adb_LICENSE.txt) |
+|[angular](https://angular.io/) |[MIT](angular_LICENSE.txt) |
 |[apache_commons_math](https://commons.apache.org/proper/commons-math/)|[Apache 2.0](apache_commons_math_LICENSE.txt) |
 |[bfilter2](https://www.mathworks.com/matlabcentral/fileexchange/12191-bilateral-filtering) | [BSD 2-clause](bfilter2_LICENSE.txt) |
 |[boost](https://www.boost.org/) | [Boost Software License 1.0](Boost_LICENSE.txt) |
@@ -13,6 +14,7 @@
 |[cherrypy](https://github.com/cherrypy/cherrypy) |[BSD 3-clause](cherrypy_LICENSE.md)  |
 |[dcraw](https://www.dechifro.org/dcraw/) | [DCRAW](dcraw_LICENSE.txt) |
 |[devIL](http://openil.sourceforge.net/) | [LGPL 2.1](DevIL_LICENSE.txt)|
+|[electron](https://www.electronjs.org/) | [MIT](electron_LICENSE.txt)
 |[exiftool](https://exiftool.org/) | [Artistic License](exiftool_LICENSE.txt) |
 |[GUI_Layout_Toolbox](https://www.mathworks.com/matlabcentral/fileexchange/47982-gui-layout-toolbox) |[BSD 3-clause](GUI_Layout_Toolbox_LICENSE.txt) |
 |[hdritools](https://github.com/edgarv/hdritools) |[MIT](hdritools_LICENSE.txt) |
@@ -45,3 +47,5 @@
 |[uipickfiles](https://www.mathworks.com/matlabcentral/fileexchange/10867-uipickfiles-uigetfile-on-steroids) |[BSD 2-clause](uipickfiles_LICENSE.txt) |
 |[Widgets_Toolbox](https://www.mathworks.com/matlabcentral/fileexchange/66235-widgets-toolbox-compatibility-support) | [BSD 3-clause](Widgets_Toolbox_license.txt) |
 |[zlib](https://zlib.net/) |[zlib](zlib_LICENSE.txt) |
+
+Please contact support@imatest.com if you have any questions or concerns.
